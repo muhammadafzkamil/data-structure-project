@@ -10,7 +10,8 @@
 using namespace std;
 
 
-int main() {
+int main()
+{
 	cout << "\n\n\n-------------------------Welcome to Recipe Organizer-------------------------\n\n\n";
 	// Creating a HashTable to store cuisines
 
