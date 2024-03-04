@@ -1,0 +1,9 @@
+﻿  AVLTree.cpp
+  HashTable.cpp
+C:\Users\Admin\source\repos\recipie organizer\recipie organizer\HashTable.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\recipie organizer\recipie organizer\HashTable.cpp(51,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  List.cpp
+  Recipe-Organizer.cpp
+  Recipe.cpp
+  Generating Code...
+  recipie organizer.vcxproj -> C:\Users\Admin\source\repos\recipie organizer\Debug\recipie organizer.exe
